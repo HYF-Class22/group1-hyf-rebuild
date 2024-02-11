@@ -2,15 +2,11 @@
 
 ## Project's design overview
 
-In this present project, we aim to create a website that offers free trainings to a variety of people from colorful cultural backgrounds. The trainings are varied in length and kinds. There are namely two types of trainings: 5 months and 8 months trainings. The 8-month program is for candidates who seek to become full-stack developers. And the 5-month program is for candidates who long to either become front-end or back-end developers.
+The objective of this project is to create a website that offers free training programs to people from diverse cultural backgrounds. The training programs come in two categories: 5-months and 8-months. The 8-month program is designed for individuals who want to become full-stack developers. The 5-month program is intended for individuals who want to specialize either in front-end or back-end development.
 
-Thus, basically, we will have to design a website with a navigation section that contains tabs that includes: program details, volunteer, about, recruit, blog, support us, why become a partner?, and FAQ. In body, there will be the main title under which nested three inline sections: who are we?, the program and the goal.
+The website will have a navigation section with tabs that include the following: program details, volunteer, about, recruit, blog, support us, why become a partner?, and FAQ. The main section will be divided into three parts: who are we?, the program, and the goal.
 
-Right below it, another section that showcases our partners and sponsors.
-
-Also, another section that displays testimonies of various alumni in which they share their experiences.
-
-A section that suggests subscribing to our newsletters is included. And finally, in the footer: contact us, support, partnership and volunteer are added.
+Additionally, there will be a section that showcases the partners and sponsors of the project. Another section will feature testimonials from alumni who have shared their experiences. The website will also include a section that suggests subscribing to newsletters. Finally, the footer will contain contact us, support, partnership, and volunteer tabs.
 
 ## Wireframe(s)
 
