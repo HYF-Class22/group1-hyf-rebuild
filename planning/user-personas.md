@@ -25,30 +25,6 @@ content and communication strategies.
 
 ---
 
-## A student Tomas
-
-- **Bio**: Male, 24 years old, fullstack Sunday class program student of hyfb.
-- **Needs/Goals**: For his group project work, he wants to watch the video
-  recorded during the class and uploaded to youtube.
-- **Frustrations**: He doesn't know the exact title of the video to search in
-  youtube and the youtube account of hyfb is not there on the website to find
-  the video quickly.
-- **Scenario 1**: Other students helped him to find the video on youtube.
-
----
-
-## HackYourFuture Belgium general manager Lizhen
-
-- **Bio**: Female, the founder, board member and general manager of hyfb
-- **Needs/Goals**: She reviewed the website of hyfb to check if the necessary
-  information is contained in the web page.
-- **Frustrations**: Missing contents such as hyfb alumni, detail profiles of
-  mentors and coaches, the values of the school and others have frustrated her.
-- **Scenario 1**: She talked with the administrators of the school and suggested
-  to redesign the web page in short time.
-
----
-
 ## A recruiter company IT head Hamza
 
 - **Bio**: Male, 40 years old, an IT person, skillful in coding and webpage
@@ -77,6 +53,42 @@ content and communication strategies.
 - **Scenario 1**: She put her comments via email to hyfb administrator to add
   some pictures on the web site.
 
----
+## An Unemployed Person
 
-<!-- more personas ... -->
+- **Bio**: Jennifer is a 30-year-old jobless person looking to enter the job
+  market.
+
+- **Needs/Goals**: She needs to find free training to upgrade her toolkit skills
+  in programming.
+- **Frustrations**: Most of the available trainings are not free, and require
+  prior knowledge.
+- **Scenario 1**: Jennifer is jobless. She looks to acquire new skills within a
+  year, but she could not find any. She needs free training to enter the job
+  market quickly.
+
+## A dropped-out Student
+
+- **Bio**: Robert dropped out of high school and looks to acquire in-demand
+  skills in programming.
+
+- **Needs/Goals**: He needs to equip himself with cutting-edge skills in
+  programming.
+- **Frustrations**: Schools require a high-school diploma, unfortunately, he
+  does not have one.
+- **Scenario 1**: He wants to gain in-demand skills in programming. He loves
+  programming, but he could not find suitable training for dropped-out students.
+  He needs a holistic course with a recognized certificate.
+
+## A blue-color worker
+
+- **Bio**: James is a factory worker who wants to make a career-switch to
+  programming.
+
+- **Needs/Goals**: He needs some programming skills to get a better job
+- **Frustrations**: The courses require physical presence during the weekdays.
+  He needs either a course in the evening or on the weekends.
+- **Scenario 1**: He is a committed and life-long learner who aspires to make a
+  career-switch to better his life. He seeks a course that is tailored to his
+  wants and meets his availability.
+
+---

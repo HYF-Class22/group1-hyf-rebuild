@@ -2,50 +2,48 @@
 
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+- partnership
+- honesty
+- mutual assistance
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+- at any convenient time
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Google Meet**:
+- **Zoom**:
+- **Slack**
 
 ---
 
 ## Availability
 
+- during the day
+
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+|    Day     | Monday  | Tuesday | Wednesday | Thursday | Friday  |
+| :--------: | :-----: | :-----: | :-------: | :------: | :-----: |
+| _Mykhailo_ | 09 - 18 | 09 - 18 |  09 - 18  | 09 - 18  | 09 - 18 |
+|  _Lishan_  | 18 - 00 | 18 - 00 |  18 - 00  | 18 - 00  | 18 - 00 |
+| _Seddouki_ | 09 - 18 | 09 - 18 |  09 - 18  | 09 - 18  | 09 - 18 |
+|  _Etefa_   | 17 - 00 | 17 - 00 |  17 - 00  | 17 - 00  | 17 - 00 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Mykhailo: _8h_;
+- Lishan : _6h_;
+- Seddouki: _8h_;
+- Etefa : _6h_;
 
 ## Asking for Help
 
-There's a fine line between confidently learning from your mistakes, and
-stubbornly getting no where. Here is a general guide for when to ask for help
-based on how long you've been stuck on the same problem:
-
-1. _0 -> 30 min_: Try on your own
-2. _30 -> 60 min_: Ask your group for help
-3. _60+ min_: Tag your coaches in Slack or GitHub
+1. _0 -> 60 min_: Try on your own
+2. _60 -> 90 min_: Ask your group for help
+3. _90+ min_: Tag your coaches in Slack or GitHubV

@@ -1,55 +1,22 @@
-# Project Name
+# group-1hyf-rebuild
 
-<!-- describe your project -->
+## User Story
 
----
+- As a student of Hack Your Future, i follow the HYFB websit and know what
+  information i can see
+- as a user , i can open be the websit
+- as a user needs to be able to comment on the HYFB websit
 
-## Setup
+## Interface: user story
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- as a role user i can easily switch betweendifferent languages in the app
+  settings
 
----
+## Interaction: user story
 
-<!-- copy this section once for each must-have user story -->
+- as a role user i can easily navigate through the websit
 
-## user story
+## Documentation: user story
 
-<!-- each issue created from this section will have the `for: user story` label -->
-
-> "as a ... i can ... so that ..."
-
-<!-- write any extra notes or description -->
-
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
-
-### Logic: user story
-
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
-
-### Interface: user story
-
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
-
-### Interaction: user story
-
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
-
-### Documentation: user story
-
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- as a team member,i can access up-to-date documentation on the project so that
+  i can quickly familiarize myself with the system and contribute
