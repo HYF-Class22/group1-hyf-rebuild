@@ -1,11 +1,8 @@
 
 # HYF-Rebuild
-
-Building website for free training programs for diverse backgrounds to foster
+Building a website for free training programs for diverse backgrounds to foster
 innovation and growth.
-
 ## Extended Description
-
 The user's current project is to develop a website that provides free training
 programs to people from diverse cultural backgrounds. They offer 5-month and
 8-month training programs tailored to individuals with varying levels of
@@ -14,7 +11,6 @@ their partners, and providing testimonials from former students. They aim to
 create a dynamic platform that fosters innovation, growth, and success for
 individuals from all walks of life
 
-=======
 
 ## Setup
 
@@ -27,49 +23,49 @@ individuals from all walks of life
 
 ---
 
-
 ## User-stories
 
 - website Title
 
-  As a user I want to see website title
+  As a user, I want to see the website title
 
 - Menu-bar
 
-  As a user I want to see vividly the menu bar
+  As a user, I want to see vividly the menu bar
 
 - Website home picture
-- As I user I want to see website home picture
+  
+  As a user, I want to see the website's home picture
 
 - Website Mission
 
-  As a user I want to discover the website objectives, mission and history
+  As a user, I want to discover the website's objectives, mission, and history
 
 - Main Sponsors
 
-  As a user I want to learn about the main sponsors
+  As a user, I want to learn about the main sponsors
 
 - Almuni Testimonials
 
-  As a user I want to check some alumni testimonials
+  As a user, I want to check some alumni testimonials
 
 - Newsletter
 
-  As I user I want to subscribe to the newsletters
+  As a user, I want to subscribe to the newsletters
 
 - Contact us
 
-  As I user I want to contact the responsibles
+  As a user, I want to contact the responsible
 
 - Headquarter
 
   As I user I want to see a map of the headquarter
 
-- Support, partnership and volunteer
+- Support, partnership, and volunteer
 
-  As I user I want to support volunteer and make a partnership
+  As I user I want to support, volunteer, or make a partnership
 
 - Social Media links
 
-  As a user I want to social media links in the footer
+  As a user, I want to see social media links in the footer
 
