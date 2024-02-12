@@ -9,7 +9,7 @@
 
 ## Interface: user story
 
-- as a role user i can easily switch betweendifferent languages in the app
+- as a role user i can easily switch between different languages in the app
   settings
 
 ## Interaction: user story
