@@ -1,11 +1,19 @@
 # HYF-Rebuild
 
 <!-- describe your project -->
-Building website for free training programs for diverse backgrounds to foster innovation and growth.
+
+Building website for free training programs for diverse backgrounds to foster
+innovation and growth.
 
 ## Extended Description
 
-The user's current project is to develop a website that provides free training programs to people from diverse cultural backgrounds. They offer 5-month and 8-month training programs tailored to individuals with varying levels of experience. The website will have intuitive tabs for easy navigation, showcasing their partners, and providing testimonials from former students. They aim to create a dynamic platform that fosters innovation, growth, and success for individuals from all walks of life
+The user's current project is to develop a website that provides free training
+programs to people from diverse cultural backgrounds. They offer 5-month and
+8-month training programs tailored to individuals with varying levels of
+experience. The website will have intuitive tabs for easy navigation, showcasing
+their partners, and providing testimonials from former students. They aim to
+create a dynamic platform that fosters innovation, growth, and success for
+individuals from all walks of life
 
 ## Setup
 
