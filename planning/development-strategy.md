@@ -1,3 +1,4 @@
+
 # HYF-Rebuild
 
 <!-- describe your project -->
@@ -6,14 +7,8 @@ Building website for free training programs for diverse backgrounds to foster in
 ## Extended Description
 
 The user's current project is to develop a website that provides free training programs to people from diverse cultural backgrounds. They offer 5-month and 8-month training programs tailored to individuals with varying levels of experience. The website will have intuitive tabs for easy navigation, showcasing their partners, and providing testimonials from former students. They aim to create a dynamic platform that fosters innovation, growth, and success for individuals from all walks of life
-
-## Setup
-
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+=======
+# Setup
 
 - Assign a group leader to create a repo on _GitHub_ named hyf-rebuild
 - Add collaborators and give them write access
@@ -21,10 +16,6 @@ The user's current project is to develop a website that provides free training p
   pages_ and paste it in the repo description for _live demo_;
 - Clone the _repo_ locally and open it with _VS Code_ Create a new _branch_ and
   run _npm checks_
-
----
-
-<!-- copy this section once for each must-have user story -->
 
 ## User-stories
 
@@ -70,3 +61,4 @@ The user's current project is to develop a website that provides free training p
 - Social Media links
 
   As a user I want to social media links in the footer
+
