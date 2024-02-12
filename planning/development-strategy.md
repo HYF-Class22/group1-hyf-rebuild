@@ -1,8 +1,11 @@
-# Project Name
+# HYF-Rebuild
 
 <!-- describe your project -->
+Building website for free training programs for diverse backgrounds to foster innovation and growth.
 
----
+## Extended Description
+
+The user's current project is to develop a website that provides free training programs to people from diverse cultural backgrounds. They offer 5-month and 8-month training programs tailored to individuals with varying levels of experience. The website will have intuitive tabs for easy navigation, showcasing their partners, and providing testimonials from former students. They aim to create a dynamic platform that fosters innovation, growth, and success for individuals from all walks of life
 
 ## Setup
 
@@ -12,44 +15,58 @@
   - rendering the initial user interface
 -->
 
+- Assign a group leader to create a repo on _GitHub_ named hyf-rebuild
+- Add collaborators and give them write access
+- Protect the _main_ branch; turn on _discussions_; copy the _link_ from _GitHub
+  pages_ and paste it in the repo description for _live demo_;
+- Clone the _repo_ locally and open it with _VS Code_ Create a new _branch_ and
+  run _npm checks_
+
 ---
 
 <!-- copy this section once for each must-have user story -->
 
-## user story
+## User-stories
 
-<!-- each issue created from this section will have the `for: user story` label -->
+- website Title
 
-> "as a ... i can ... so that ..."
+  As a user I want to see website title
 
-<!-- write any extra notes or description -->
+- Menu-bar
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+  As a user I want to see vividly the menu bar
 
-### Logic: user story
+- Website home picture
+- As I user I want to see website home picture
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- Website Mission
 
-### Interface: user story
+  As a user I want to discover the website objectives, mission and history
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- Main Sponsors
 
-### Interaction: user story
+  As a user I want to learn about the main sponsors
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- Almuni Testimonials
 
-### Documentation: user story
+  As a user I want to check some alumni testimonials
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- Newsletter
+
+  As I user I want to subscribe to the newsletters
+
+- Contact us
+
+  As I user I want to contact the responsibles
+
+- Headquarter
+
+  As I user I want to see a map of the headquarter
+
+- Support, partnership and volunteer
+
+  As I user I want to support volunteer and make a partnership
+
+- Social Media links
+
+  As a user I want to social media links in the footer

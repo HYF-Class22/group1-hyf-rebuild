@@ -18,7 +18,9 @@
     "Seddouki",
     "Etefa",
     "Lishan",
-    "Mykhailo"
+    "Mykhailo",
+    "Almuni",
+    "responsibles"
   ],
   "ignorePaths": [
     "node_modules/**",
