@@ -11,7 +11,6 @@ their partners, and providing testimonials from former students. They aim to
 create a dynamic platform that fosters innovation, growth, and success for
 individuals from all walks of life
 
-
 ## Setup
 
 - Assign a group leader to create a repo on _GitHub_ named hyf-rebuild
@@ -20,9 +19,7 @@ individuals from all walks of life
   pages_ and paste it in the repo description for _live demo_;
 - Clone the _repo_ locally and open it with _VS Code_ Create a new _branch_ and
   run _npm checks_
-
 ---
-
 ## User-stories
 
 - website Title
