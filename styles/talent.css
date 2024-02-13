@@ -1,0 +1,84 @@
+@import url("./something.css");
+
+.img {
+  box-shadow: var(--shadow-1);
+  position: relative;
+}
+
+img {
+  width: 100%;
+}
+
+.help {
+  position: absolute;
+  width: 70%;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.help h1 {
+  font-family: Montserrat, sans-serif;
+  width: 100%;
+  color: var(--grey-700);
+  font-size: 2.4rem;
+  text-align: center;
+}
+
+.statistics {
+  display: flex;
+  justify-content: space-around;
+  box-shadow: var(--shadow-4);
+}
+
+.amount {
+  width: 25vw;
+  height: 11.5rem;
+  box-shadow: var(--shadow-1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.percentage-job {
+  width: 25vw;
+  height: 11.5rem;
+  box-shadow: var(--shadow-1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.percentage-women {
+  width: 25vw;
+  height: 11.5rem;
+  box-shadow: var(--shadow-1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title1,
+.title2,
+.title3 {
+  display: flex;
+  align-items: center;
+  height: 6rem;
+  font-size: 2rem;
+  color: var(--primary-300);
+  box-shadow: var(--shadow-1);
+  width: 10vw;
+}
+
+.text1,
+.text2,
+.text3 {
+  display: flex;
+  align-items: center;
+  height: 6rem;
+  font-size: 1.1rem;
+  color: var(--grey-900);
+  box-shadow: var(--shadow-1);
+  width: 25vw;
+  text-align: center;
+}
