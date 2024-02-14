@@ -6,7 +6,7 @@
   flex-direction: column;
 }
 
-.img {
+.img-title {
   position: relative;
   display: flex;
   width: 80vw;
