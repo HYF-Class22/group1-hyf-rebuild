@@ -13,6 +13,7 @@
 
 .img {
   max-width: 100px;
+  height: 200px;
 }
 
 .caption {
@@ -38,4 +39,43 @@ h2 {
   text-align: center;
   color: blue;
   font-size: 50px;
+}
+
+.news-form {
+  padding: 30px;
+}
+
+.news-form .group-form {
+  padding-bottom: 15px;
+}
+
+.news-form label {
+  display: block;
+}
+
+input {
+  border-bottom: 4px solid blue;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0px;
+}
+
+.news-form input {
+  padding: 8px;
+  width: 100%;
+}
+
+label {
+  font-size: 20px;
+  color: darkblue;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px;
+  width: 100%;
+  border: 0px;
+  font-size: 20px;
+  color: white;
+  background-color: blue;
 }
