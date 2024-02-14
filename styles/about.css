@@ -1,1 +1,40 @@
 @import url("./something.css");
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.column {
+  padding: 20px;
+  box-sizing: border-box;
+  flex: 30%;
+}
+.img {
+  max-width: 100px;
+  image-orientation: center;
+}
+.caption {
+  background-color: grey;
+  color: rgb(53, 72, 190);
+}
+
+h3 {
+  color: rgba(0, 0, 0, 0.906);
+  text-align: center;
+  padding: 0.5rem;
+}
+.caption {
+  padding: 0.5rem;
+  margin: 0;
+}
+h3 {
+  padding: 0.5rem;
+  margin: 0;
+}
+P {
+  padding: 0.5rem;
+  margin: 0;
+}
+h2 {
+  text-align: center;
+  color: blue;
+}
