@@ -1,8 +1,27 @@
-@import url("./something.css");
-@import url("./about.css");
-@import url("./alumni.css");
-@import url("./contact.css");
-@import url("./footer.css");
-@import url("./header.css");
-@import url("./newsletter.css");
-@import url("./partners.css");
+.card {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 20px;
+  background-color: blue;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 300px;
+  height: 200px;
+  flex-grow: 1;
+}
+
+.continer {
+  display: flex;
+  justify-content: center;
+}
+.row {
+  display: flex;
+}
+.address {
+  font-size: 20px;
+  text-align: center;
+}
+.socialIcons {
+  font-size: 20px;
+  text-align: center;
+}
