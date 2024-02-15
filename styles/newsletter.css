@@ -1,5 +1,5 @@
 @import url("./something.css");
-
+  @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 .news-form {
   padding: 30px;
 }
@@ -28,11 +28,10 @@ input {
 
 button {
   margin-top: 10px;
-  @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
-
+  
   body {
     background-color: #232331;
-    font-family: "Roboto", sans-serif;
+    font-family: Roboto, sans-serif;
   }
 
   /* Styles for the slider CAPTCHA */
