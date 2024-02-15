@@ -39,17 +39,15 @@ iframe {
 }
 
 .contact-form input[type="submit"] {
-  width: 100%; /* Занимать всю доступную ширину контейнера */
-  padding: 0.5rem; /* Добавить небольшие отступы для улучшения внешнего вида */
-  background-color: var(--primary-600); /* Цвет фона кнопки */
-  color: white; /* Цвет текста кнопки */
-  border: none; /* Убрать границы кнопки */
+  width: 100%;
+  padding: 0.5rem;
+  background-color: var(--primary-600);
+  color: white;
+  border: none;
   cursor: pointer;
   border-radius: var(--border-radius);
 }
 
 .contact-form input[type="submit"]:hover {
-  background-color: var(
-    --primary-800
-  ); /* Изменить цвет фона кнопки при наведении */
+  background-color: var(--primary-800);
 }
