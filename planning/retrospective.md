@@ -13,8 +13,8 @@
 - Sticking to the schedule tightly and executing each task to its due time;
 - Informing team members of any changes, progress, and suggestions either on
   GitHub or via Slack;
-- Scheduling regular meetings to assess our progress, help a team member, or agree
-  on changes;
+- Scheduling regular meetings to assess our progress, help a team member, or
+  agree on changes;
 - Taking the initiative to debug errors;
 - Being proactive to work around problems;
 - Building a healthy work environment where no one is a bystander: every
@@ -28,8 +28,7 @@
 
 - Having a proactive leadership creates an energetic, down-to-earth, and
   determined team;
-- Communication skill is the backbone of every successful
-  project;
+- Communication skill is the backbone of every successful project;
 - Planning thoroughly makes the work feasible and attainable;
 - Taking initiative contributes to the achievement of the desired outcome;
 - A proactive methodology makes the workflow run smoothly Procrastination is
@@ -41,10 +40,10 @@
 
 ### What parts of your plan went as expected?
 
-Our adapted methodology yielded the desired outcome. We succeeded
-in breaking the whole project into chunks, and analyzing every chunk thoroughly
-and coming up with a feasible plan. Every member was assigned specific chunks to
-complete within a time frame.
+Our adapted methodology yielded the desired outcome. We succeeded in breaking
+the whole project into chunks, and analyzing every chunk thoroughly and coming
+up with a feasible plan. Every member was assigned specific chunks to complete
+within a time frame.
 
 ### What parts of your plan did not work out?
 
