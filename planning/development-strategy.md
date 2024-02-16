@@ -74,7 +74,7 @@ As a user, I want to see the website title
 
     - Add a _h4_ title as name of the alumnus;
 
-    - Add a*p* for the alumnus’s definition;
+    - Add a _p_ for the alumnus’s definition;
 
   - CSS:
 
