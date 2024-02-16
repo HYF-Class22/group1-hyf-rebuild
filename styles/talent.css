@@ -10,7 +10,7 @@
   position: relative;
   display: flex;
   width: 80vw;
-  height: 25rem;
+  height: 30rem;
   margin-bottom: 2rem;
 }
 
@@ -31,7 +31,7 @@
 .help h1 {
   font-family: Montserrat, sans-serif;
   width: 100%;
-  color: var(--primary-700);
+  color: var(--primary-100);
   text-align: center;
 }
 
@@ -73,9 +73,11 @@
   display: flex;
   align-items: center;
   height: 6rem;
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: var(--grey-900);
   box-shadow: var(--shadow-1);
   width: 25vw;
   text-align: center;
+  letter-spacing: var(--letter-spacing);
+  line-height: 1.3;
 }
