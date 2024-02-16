@@ -16,7 +16,7 @@ innovation and growth.
 
 ### Website Title
 
-  As a user, I want to see the website title
+As a user, I want to see the website title
 
 - Menu-bar
 
@@ -43,12 +43,14 @@ innovation and growth.
     - Add a _p_ element to add a _paragraph_;
 
   - CSS:
-  
-    - Add a CSS rule for the container: set to display: flex; flex-direction: row;
+
+    - Add a CSS rule for the container: set to display: flex; flex-direction:
+      row;
 
     - Add a CSS rule for each child _div_ to be set to: box-sizing: border-box
 
-    - Add a CSS rule to set the image’s width and height, and its object-fix to cover
+    - Add a CSS rule to set the image’s width and height, and its object-fix to
+      cover
 
     - Add a CSS rule to set the title and paragraph to center
 
@@ -67,21 +69,21 @@ innovation and growth.
   - HTML
 
     - Add a _form_ element to house three children;
-  
+
     - Add _div_ for every child;
-  
+
     - Add _label_ to name each _form_;
-  
+
     - Add an _input_ with values: text, name and placeholder
-  
+
   - CSS:
-  
+
     - Add a CSS rule to set the _container_ and _label_ to _display: block_;
-  
+
     - Add a CSS rule to input set to _border bottom_ to _4px solid blue_;
 
     - Add a CSS to style the sign up _button_;
-  
+
     - Add a CSS rule to create the _hover_ effect;
 
 - Contact us
