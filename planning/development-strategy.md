@@ -101,3 +101,37 @@ As a user, I want to see the website title
 - Social Media links
 
   As a user, I want to see social media links in the footer
+
+- Partners
+
+  As a user I have to see the list of partners
+
+  HTML
+
+  - Create a section with class partners. In this section tag:
+
+    - Add a heading tag 'h1' SOME OF OUR PARTNERS
+
+    - Save image of the partners in the folder img
+
+    - Use div container elements with img-row class to group the images into 3
+      rows
+
+    - Use image tag, source of the images and alternative name for each image
+
+  CSS
+
+  - Style the elements of partners section by writing css in #partners.css
+    linked to @import url("./something.css")
+
+  - For the partners container use display:flex, align-items:center
+
+  - Use center alignment for items in the containers display: flex,
+    align-items:center
+
+  - For the h1 assign text-align:center, color:blue, font-size: 100px
+
+  - For img-row class use display:flex, align-items:center, flex-wrap:wrap,
+    justify-content:space-around
+
+  - For the img element use max-width:100px, margin:10px, height:auto
