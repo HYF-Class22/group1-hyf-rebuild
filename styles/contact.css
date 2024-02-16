@@ -8,7 +8,7 @@
 
 .contact-form {
   flex: 1;
-  background-color: var(--primary-400);
+  background-color: var(--primary-300);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -50,4 +50,8 @@ iframe {
 
 .contact-form input[type="submit"]:hover {
   background-color: var(--primary-800);
+}
+
+.map-title {
+  text-align: center;
 }
