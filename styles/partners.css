@@ -2,25 +2,27 @@
 
 .partners {
   display: flex;
-  align-items: center;
   flex-direction: column;
-}
-
-h1 {
-  text-align: center;
-  color: blue;
-  font-size: 100px;
+  justify-content: center;
 }
 
 .img-row {
+  width: 85vw;
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
+  gap: 2rem;
+  margin: 0 auto;
 }
 
 .img-row img {
-  max-width: 150px; /* Adjust as needed */
-  margin: 10px;
-  height: auto;
+  width: 7rem;
+}
+
+.img-row-box {
+  height: 7rem;
+}
+
+.new-title {
+  margin-bottom: 8rem;
 }
