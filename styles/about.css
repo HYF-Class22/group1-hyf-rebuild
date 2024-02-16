@@ -2,41 +2,37 @@
 
 .row {
   display: flex;
-  flex-direction: row;
+  width: 88vw;
+  justify-content: space-between;
+  height: 100%;
 }
 
 .column {
-  padding: 20px;
   box-sizing: border-box;
-  flex: 30%;
+  width: 25vw;
 }
 
-.img {
-  max-width: 100px;
-  height: 200px;
+.image {
+  width: 100%;
+  height: 20rem;
+  object-fit: cover;
 }
 
 .caption {
-  background-color: grey;
-  color: blue;
-  padding: 0.5rem;
-  margin: 0;
-}
-
-h3 {
-  color: black;
-  padding: 0.5rem;
-  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
+  height: 12rem;
+  justify-content: center;
 }
 
-p {
-  padding: 0.5rem;
-  margin: 0;
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-h2 {
-  text-align: center;
-  color: blue;
-  font-size: 50px;
+.title {
+  width: 84rem;
 }
