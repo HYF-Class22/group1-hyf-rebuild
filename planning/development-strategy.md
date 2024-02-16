@@ -14,7 +14,7 @@ innovation and growth.
 
 ## User-Stories
 
-### Website Title
+- Website Title
 
 As a user, I want to see the website title
 
@@ -62,6 +62,30 @@ As a user, I want to see the website title
 
   As a user, I want to check some alumni testimonials
 
+  - HTML:
+
+    - Add a _div_ parent with its three children _div_;
+
+    - Add an _h2_ for the title of the section;
+
+    - Add a _div_ for each alumnus;
+
+    - Add an _img_ element;
+
+    - Add a _h4_ title as name of the alumnus;
+
+    - Add a _p_ for the alumnus’s definition;
+
+  - CSS:
+
+    - Add a CSS rule _display_ and set it to _flex_
+
+    - Set the _flex-direction_ to column
+
+    - Add a CSS rule to style _img_ to each alumnus
+
+    - Set the CSS rule border-radius to round
+
 - Newsletter
 
   As a user, I want to subscribe to the newsletters
@@ -70,9 +94,9 @@ As a user, I want to see the website title
 
     - Add a _form_ element to house three children;
 
-    - Add _div_ for every child;
+    - Add a _div_ for every child;
 
-    - Add _label_ to name each _form_;
+    - Add a _label_ to name each _form_;
 
     - Add an _input_ with values: text, name and placeholder
 
