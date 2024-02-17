@@ -1,1 +1,34 @@
 @import url("./something.css");
+
+@media (width <= 768px) {
+  .row {
+    flex-direction: column;
+    align-items: center;
+    row-gap: 2rem;
+    width: 88vw;
+  }
+
+  .column {
+    width: 88vw;
+  }
+
+  .title2 {
+    width: 88vw;
+  }
+
+  .text-about {
+    width: 60vw;
+  }
+
+  .alumni-columns {
+    flex-direction: column;
+    align-items: center;
+    row-gap: 2rem;
+    width: 88vw;
+  }
+
+  .review {
+    width: 88vw;
+    height: 30rem;
+  }
+}
