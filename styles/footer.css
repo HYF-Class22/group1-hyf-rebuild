@@ -3,7 +3,7 @@
 .card {
   background-color: var(--primary-300);
   width: 28vw;
-  height: 15vw;
+  height: 15vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
